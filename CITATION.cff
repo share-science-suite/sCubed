@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+authors:
+- family-names: "Elizabeth"
+  given-names: "Abigail"
+  orcid: "https://orcid.org/0000-0001-8627-777X"
+title: "Codebase for Share Science with Sheets for Google Sheets™ (sCubed)"
+version: 0.0.9
+doi: 10.5281/zenodo.10023512
+date-released: 2024-01-21
+url: "https://github.com/share-science-suite/sCubed"
+license: Apache-2.0
+license-url: "https://github.com/share-science-suite/sCubed/blob/main/LICENSE"  
+message: "Early versions of this work were supported by the NIH Metabolomics Consortium Coordinating Center grant 1U2CDK119889-01 and the NSF Network for Advanced NMR grant 1946970."  
